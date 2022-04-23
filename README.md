@@ -1,4 +1,4 @@
-# Falling-through-cubes
+# Falling Through Cubes
 Game which you are falling infinitely and you have to dodge using the cell phone's gyroscope to move, if you hit any of the pillars you will lose. Try to get as far as possible.<br />
 [Tutorial](https://www.youtube.com/watch?v=qHcmdM78tCM)
 
